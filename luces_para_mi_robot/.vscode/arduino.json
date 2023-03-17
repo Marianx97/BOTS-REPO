@@ -1,0 +1,6 @@
+{
+    "sketch": "luces_para_mi_robot.ino",
+    "output": "build",
+    "board": "arduino:avr:uno",
+    "port": "COM3"
+}
