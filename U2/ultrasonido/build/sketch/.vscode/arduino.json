@@ -1,0 +1,7 @@
+#line 1 "C:\\Users\\ranuc\\Desktop\\BOTS\\Bots - REPO\\U2\\ultrasonido\\.vscode\\arduino.json"
+{
+    "sketch": "ultrasonido.ino",
+    "output": "build",
+    "board": "arduino:avr:uno",
+    "port": "COM3"
+}
