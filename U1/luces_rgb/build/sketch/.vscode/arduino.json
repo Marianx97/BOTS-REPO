@@ -1,0 +1,7 @@
+#line 1 "C:\\Users\\ranuc\\Desktop\\BOTS\\Bots - REPO\\U1\\luces_rgb\\.vscode\\arduino.json"
+{
+    "sketch": "luces_rgb.ino",
+    "output": "build",
+    "board": "arduino:avr:uno",
+    "port": "COM3"
+}

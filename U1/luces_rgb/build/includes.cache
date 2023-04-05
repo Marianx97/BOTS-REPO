@@ -1,0 +1,17 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\ranuc\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.5\\cores\\arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\ranuc\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.5\\variants\\standard"
+  },
+  {
+    "Sourcefile": "C:\\Users\\ranuc\\Desktop\\BOTS\\Bots - REPO\\U1\\luces_rgb\\build\\sketch\\luces_rgb.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
