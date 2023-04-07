@@ -1,0 +1,6 @@
+{
+    "sketch": "ultrasonido_uso.ino",
+    "output": "build",
+    "board": "arduino:avr:uno",
+    "port": "COM3"
+}
